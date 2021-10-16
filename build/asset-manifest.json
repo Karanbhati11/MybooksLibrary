@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc989931.chunk.css",
+    "main.js": "/static/js/main.b01b8b29.chunk.js",
+    "main.js.map": "/static/js/main.b01b8b29.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3f9585af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3f9585af.js.map",
+    "static/js/2.578180f5.chunk.js": "/static/js/2.578180f5.chunk.js",
+    "static/js/2.578180f5.chunk.js.map": "/static/js/2.578180f5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cc989931.chunk.css.map": "/static/css/main.cc989931.chunk.css.map",
+    "static/js/2.578180f5.chunk.js.LICENSE.txt": "/static/js/2.578180f5.chunk.js.LICENSE.txt",
+    "static/media/Attitude_is_Everything_compressed.ce160711.pdf": "/static/media/Attitude_is_Everything_compressed.ce160711.pdf",
+    "static/media/Rich-Dad-Poor-Dad-eBook-compressed.58388d02.pdf": "/static/media/Rich-Dad-Poor-Dad-eBook-compressed.58388d02.pdf",
+    "static/media/The_Monk_Who_Sold_His_Ferrari_Thunder_compressed.4691b652.pdf": "/static/media/The_Monk_Who_Sold_His_Ferrari_Thunder_compressed.4691b652.pdf",
+    "static/media/Think-And-Grow-Rich_compressed.d09f23ca.pdf": "/static/media/Think-And-Grow-Rich_compressed.d09f23ca.pdf",
+    "static/media/Who_Moved_my_cheese_compressed.80a23b8b.pdf": "/static/media/Who_Moved_my_cheese_compressed.80a23b8b.pdf",
+    "static/media/Zero to One_ Notes on Startups, or How to Build the Future ( PDFDrive )_compressed.9fa3c0c2.pdf": "/static/media/Zero to One_ Notes on Startups, or How to Build the Future ( PDFDrive )_compressed.9fa3c0c2.pdf",
+    "static/media/atomic-habits-compressed.ad63f5dc.pdf": "/static/media/atomic-habits-compressed.ad63f5dc.pdf",
+    "static/media/the-alchemist-paulo-coelho_compressed.a15c53e8.pdf": "/static/media/the-alchemist-paulo-coelho_compressed.a15c53e8.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9585af.js",
+    "static/js/2.578180f5.chunk.js",
+    "static/css/main.cc989931.chunk.css",
+    "static/js/main.b01b8b29.chunk.js"
+  ]
+}
