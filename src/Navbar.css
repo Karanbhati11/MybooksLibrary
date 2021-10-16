@@ -1,0 +1,15 @@
+.navbar {
+    height: 7vh;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0rem 2rem 2rem black;
+}
+
+
+.items {
+    font-family: monospace;
+    font-size: 25px;
+}

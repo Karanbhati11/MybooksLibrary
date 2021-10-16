@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: grey;
+}
+
+.booklist {
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: white;
+    gap: 8;
+}
+
+h3 {
+    color: red;
+}
+
+.items {
+    margin: 20px;
+    padding: 20px;
+}
+
+.b123 {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+    text-justify: auto;
+    border-radius: 10px;
+    box-shadow: 1rem 1rem 1rem black;
+    transition: 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.b123:hover {
+
+    transform: translateY(-20px);
+    box-shadow: 2rem 2rem 1rem black;
+
+}
+
+.image12 {
+    width: 200px;
+    height: 250px;
+}
+
+h2 {
+    text-transform: capitalize;
+}
