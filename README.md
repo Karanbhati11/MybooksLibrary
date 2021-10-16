@@ -3,4 +3,4 @@
 This is simple books collection created in reactjs.
 
 
-Preview<a href="https://myawesomebooks.netlify.app" target="_blank"/>
+Preview<a href="https://myawesomebooks.netlify.app" target="_blank">Preview<a/>
